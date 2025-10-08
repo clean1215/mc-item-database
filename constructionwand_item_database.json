@@ -1,0 +1,44 @@
+{
+  "constructionwand:core_angel": {
+    "english_name": "Core Angel",
+    "chinese_name": "天使核心",
+    "pinyin": "tian shi he xin",
+    "mod_name": "Constructionwand",
+    "has_texture": true
+  },
+  "constructionwand:core_destruction": {
+    "english_name": "Core Destruction",
+    "chinese_name": "破坏核心",
+    "pinyin": "po huai he xin",
+    "mod_name": "Constructionwand",
+    "has_texture": true
+  },
+  "constructionwand:stone_wand": {
+    "english_name": "Stone Wand",
+    "chinese_name": "石制手杖",
+    "pinyin": "shi zhi shou zhang",
+    "mod_name": "Constructionwand",
+    "has_texture": true
+  },
+  "constructionwand:iron_wand": {
+    "english_name": "Iron Wand",
+    "chinese_name": "铁制手杖",
+    "pinyin": "tie zhi shou zhang",
+    "mod_name": "Constructionwand",
+    "has_texture": true
+  },
+  "constructionwand:diamond_wand": {
+    "english_name": "Diamond Wand",
+    "chinese_name": "钻石手杖",
+    "pinyin": "zuan shi shou zhang",
+    "mod_name": "Constructionwand",
+    "has_texture": true
+  },
+  "constructionwand:infinity_wand": {
+    "english_name": "Infinity Wand",
+    "chinese_name": "无尽手杖",
+    "pinyin": "wu jin shou zhang",
+    "mod_name": "Constructionwand",
+    "has_texture": true
+  }
+}

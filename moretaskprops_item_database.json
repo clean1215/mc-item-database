@@ -1,0 +1,51 @@
+{
+  "moretaskprops:red_gem_shard": {
+    "english_name": "Red Gem Shard",
+    "chinese_name": "红宝石碎片",
+    "pinyin": "hong bao shi sui pian",
+    "mod_name": "Moretaskprops",
+    "has_texture": true
+  },
+  "moretaskprops:red_gem": {
+    "english_name": "Red Gem",
+    "chinese_name": "红宝石",
+    "pinyin": "hong bao shi",
+    "mod_name": "Moretaskprops",
+    "has_texture": true
+  },
+  "moretaskprops:bronze_nugget": {
+    "english_name": "Bronze Nugget",
+    "chinese_name": "青铜粒",
+    "pinyin": "qing tong li",
+    "mod_name": "Moretaskprops",
+    "has_texture": true
+  },
+  "moretaskprops:fossil": {
+    "english_name": "Hua Shi Kuai",
+    "chinese_name": "化石",
+    "pinyin": "hua shi",
+    "mod_name": "Moretaskprops",
+    "has_texture": true
+  },
+  "moretaskprops:good_feeling_jade_talisman": {
+    "english_name": "Shu Xin Yu Fu",
+    "chinese_name": "舒心玉符",
+    "pinyin": "shu xin yu fu",
+    "mod_name": "Moretaskprops",
+    "has_texture": true
+  },
+  "moretaskprops:fix_bag": {
+    "english_name": "Xiu Li Dai",
+    "chinese_name": "修理套件",
+    "pinyin": "xiu li tao jian",
+    "mod_name": "Moretaskprops",
+    "has_texture": true
+  },
+  "moretaskprops:cloud_key": {
+    "english_name": "Ayun",
+    "chinese_name": "云纹钥匙",
+    "pinyin": "yun wen yao shi",
+    "mod_name": "Moretaskprops",
+    "has_texture": true
+  }
+}

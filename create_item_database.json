@@ -1,0 +1,4089 @@
+{
+    "create:hand_crank": {
+        "english_name": "Hand Crank",
+        "chinese_name": "手摇曲柄",
+        "pinyin": "shou yao qu bing",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:white_valve_handle": {
+        "english_name": "White Valve Handle",
+        "chinese_name": "白色阀门手轮",
+        "pinyin": "bai se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:orange_valve_handle": {
+        "english_name": "Orange Valve Handle",
+        "chinese_name": "橙色阀门手轮",
+        "pinyin": "cheng se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:magenta_valve_handle": {
+        "english_name": "Magenta Valve Handle",
+        "chinese_name": "品红色阀门手轮",
+        "pinyin": "pin hong se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_blue_valve_handle": {
+        "english_name": "Light Blue Valve Handle",
+        "chinese_name": "淡蓝色阀门手轮",
+        "pinyin": "dan lan se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:yellow_valve_handle": {
+        "english_name": "Yellow Valve Handle",
+        "chinese_name": "黄色阀门手轮",
+        "pinyin": "huang se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:lime_valve_handle": {
+        "english_name": "Lime Valve Handle",
+        "chinese_name": "黄绿色阀门手轮",
+        "pinyin": "huang lv se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pink_valve_handle": {
+        "english_name": "Pink Valve Handle",
+        "chinese_name": "粉红色阀门手轮",
+        "pinyin": "fen hong se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gray_valve_handle": {
+        "english_name": "Gray Valve Handle",
+        "chinese_name": "灰色阀门手轮",
+        "pinyin": "hui se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_gray_valve_handle": {
+        "english_name": "Light Gray Valve Handle",
+        "chinese_name": "淡灰色阀门手轮",
+        "pinyin": "dan hui se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cyan_valve_handle": {
+        "english_name": "Cyan Valve Handle",
+        "chinese_name": "青色阀门手轮",
+        "pinyin": "qing se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:purple_valve_handle": {
+        "english_name": "Purple Valve Handle",
+        "chinese_name": "紫色阀门手轮",
+        "pinyin": "zi se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blue_valve_handle": {
+        "english_name": "Blue Valve Handle",
+        "chinese_name": "蓝色阀门手轮",
+        "pinyin": "lan se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brown_valve_handle": {
+        "english_name": "Brown Valve Handle",
+        "chinese_name": "棕色阀门手轮",
+        "pinyin": "zong se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:green_valve_handle": {
+        "english_name": "Green Valve Handle",
+        "chinese_name": "绿色阀门手轮",
+        "pinyin": "lv se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:red_valve_handle": {
+        "english_name": "Red Valve Handle",
+        "chinese_name": "红色阀门手轮",
+        "pinyin": "hong se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:black_valve_handle": {
+        "english_name": "Black Valve Handle",
+        "chinese_name": "黑色阀门手轮",
+        "pinyin": "hei se fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_valve_handle": {
+        "english_name": "Copper Valve Handle",
+        "chinese_name": "铜阀门手轮",
+        "pinyin": "tong fa men shou lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:water_wheel": {
+        "english_name": "Water Wheel",
+        "chinese_name": "水车",
+        "pinyin": "shui che",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:large_water_wheel": {
+        "english_name": "Large Water Wheel",
+        "chinese_name": "大型水车",
+        "pinyin": "da xing shui che",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:windmill_bearing": {
+        "english_name": "Windmill Bearing",
+        "chinese_name": "风车轴承",
+        "pinyin": "feng che zhou cheng",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:steam_engine": {
+        "english_name": "Steam Engine",
+        "chinese_name": "蒸汽引擎",
+        "pinyin": "zheng qi yin qing",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:creative_motor": {
+        "english_name": "Creative Motor",
+        "chinese_name": "创造马达",
+        "pinyin": "chuang zao ma da",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:shaft": {
+        "english_name": "Shaft",
+        "chinese_name": "传动杆",
+        "pinyin": "chuan dong gan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_encased_shaft": {
+        "english_name": "Andesite Encased Shaft",
+        "chinese_name": "安山传动杆箱",
+        "pinyin": "an shan chuan dong gan xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_encased_shaft": {
+        "english_name": "Brass Encased Shaft",
+        "chinese_name": "黄铜传动杆箱",
+        "pinyin": "huang tong chuan dong gan xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cogwheel": {
+        "english_name": "Cogwheel",
+        "chinese_name": "齿轮",
+        "pinyin": "chi lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_encased_cogwheel": {
+        "english_name": "Andesite Encased Cogwheel",
+        "chinese_name": "安山齿轮箱",
+        "pinyin": "an shan chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_encased_cogwheel": {
+        "english_name": "Brass Encased Cogwheel",
+        "chinese_name": "黄铜齿轮箱",
+        "pinyin": "huang tong chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:large_cogwheel": {
+        "english_name": "Large Cogwheel",
+        "chinese_name": "大齿轮",
+        "pinyin": "da chi lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_encased_large_cogwheel": {
+        "english_name": "Andesite Encased Large Cogwheel",
+        "chinese_name": "安山大齿轮箱",
+        "pinyin": "an shan da chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_encased_large_cogwheel": {
+        "english_name": "Brass Encased Large Cogwheel",
+        "chinese_name": "黄铜大齿轮箱",
+        "pinyin": "huang tong da chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gearbox": {
+        "english_name": "Gearbox",
+        "chinese_name": "十字齿轮箱",
+        "pinyin": "shi zi chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:vertical_gearbox": {
+        "english_name": "Vertical Gearbox",
+        "chinese_name": "竖直十字齿轮箱",
+        "pinyin": "shu zhi shi zi chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:clutch": {
+        "english_name": "Clutch",
+        "chinese_name": "离合器",
+        "pinyin": "li he qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gearshift": {
+        "english_name": "Gearshift",
+        "chinese_name": "反转齿轮箱",
+        "pinyin": "fan zhuan chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:encased_chain_drive": {
+        "english_name": "Encased Chain Drive",
+        "chinese_name": "链式传动箱",
+        "pinyin": "lian shi chuan dong xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:adjustable_chain_gearshift": {
+        "english_name": "Adjustable Chain Gearshift",
+        "chinese_name": "可调节链式传动箱",
+        "pinyin": "ke tiao jie lian shi chuan dong xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:chain_conveyor": {
+        "english_name": "Chain Conveyor",
+        "chinese_name": "锁链传动轮",
+        "pinyin": "suo lian chuan dong lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:sequenced_gearshift": {
+        "english_name": "Sequenced Gearshift",
+        "chinese_name": "可编程齿轮箱",
+        "pinyin": "ke bian cheng chi lun xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:rotation_speed_controller": {
+        "english_name": "Rotation Speed Controller",
+        "chinese_name": "转速控制器",
+        "pinyin": "zhuan su kong zhi qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_press": {
+        "english_name": "Mechanical Press",
+        "chinese_name": "动力冲压机",
+        "pinyin": "dong li chong ya ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_mixer": {
+        "english_name": "Mechanical Mixer",
+        "chinese_name": "动力搅拌器",
+        "pinyin": "dong li jiao ban qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:deployer": {
+        "english_name": "Deployer",
+        "chinese_name": "机械手",
+        "pinyin": "ji xie shou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:encased_fan": {
+        "english_name": "Encased Fan",
+        "chinese_name": "鼓风机",
+        "pinyin": "gu feng ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:millstone": {
+        "english_name": "Millstone",
+        "chinese_name": "石磨",
+        "pinyin": "shi mo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crushing_wheel": {
+        "english_name": "Crushing Wheel",
+        "chinese_name": "粉碎轮",
+        "pinyin": "fen sui lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_crafter": {
+        "english_name": "Mechanical Crafter",
+        "chinese_name": "动力合成器",
+        "pinyin": "dong li he cheng qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_drill": {
+        "english_name": "Mechanical Drill",
+        "chinese_name": "动力钻头",
+        "pinyin": "dong li zuan tou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_saw": {
+        "english_name": "Mechanical Saw",
+        "chinese_name": "动力锯",
+        "pinyin": "dong li ju",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_plough": {
+        "english_name": "Mechanical Plough",
+        "chinese_name": "动力犁",
+        "pinyin": "dong li li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_harvester": {
+        "english_name": "Mechanical Harvester",
+        "chinese_name": "动力收割机",
+        "pinyin": "dong li shou ge ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_roller": {
+        "english_name": "Mechanical Roller",
+        "chinese_name": "动力压路机",
+        "pinyin": "dong li ya lu ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:basin": {
+        "english_name": "Basin",
+        "chinese_name": "工作盆",
+        "pinyin": "gong zuo pen",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:nozzle": {
+        "english_name": "Nozzle",
+        "chinese_name": "分散网",
+        "pinyin": "fen san wang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blaze_burner": {
+        "english_name": "Blaze Burner",
+        "chinese_name": "烈焰人燃烧室",
+        "pinyin": "lie yan ren ran shao shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:empty_blaze_burner": {
+        "english_name": "Empty Blaze Burner",
+        "chinese_name": "空的烈焰人燃烧室",
+        "pinyin": "kong de lie yan ren ran shao shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fluid_pipe": {
+        "english_name": "Fluid Pipe",
+        "chinese_name": "流体管道",
+        "pinyin": "liu ti guan dao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_pump": {
+        "english_name": "Mechanical Pump",
+        "chinese_name": "动力泵",
+        "pinyin": "dong li beng",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:smart_fluid_pipe": {
+        "english_name": "Smart Fluid Pipe",
+        "chinese_name": "智能流体管道",
+        "pinyin": "zhi neng liu ti guan dao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fluid_valve": {
+        "english_name": "Fluid Valve",
+        "chinese_name": "流体阀门",
+        "pinyin": "liu ti fa men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fluid_tank": {
+        "english_name": "Fluid Tank",
+        "chinese_name": "流体储罐",
+        "pinyin": "liu ti chu guan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:hose_pulley": {
+        "english_name": "Hose Pulley",
+        "chinese_name": "软管滑轮",
+        "pinyin": "ruan guan hua lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:item_drain": {
+        "english_name": "Item Drain",
+        "chinese_name": "分液池",
+        "pinyin": "fen ye chi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:spout": {
+        "english_name": "Spout",
+        "chinese_name": "注液器",
+        "pinyin": "zhu ye qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:portable_fluid_interface": {
+        "english_name": "Portable Fluid Interface",
+        "chinese_name": "移动式流体接口",
+        "pinyin": "yi dong shi liu ti jie kou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:creative_fluid_tank": {
+        "english_name": "Creative Fluid Tank",
+        "chinese_name": "创造流体储罐",
+        "pinyin": "chuang zao liu ti chu guan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:belt_connector": {
+        "english_name": "Belt Connector",
+        "chinese_name": "传送带",
+        "pinyin": "chuan song dai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:filter": {
+        "english_name": "Filter",
+        "chinese_name": "列表过滤器",
+        "pinyin": "lie biao guo lv qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:portable_storage_interface": {
+        "english_name": "Portable Storage Interface",
+        "chinese_name": "移动式存储接口",
+        "pinyin": "yi dong shi cun chu jie kou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:attribute_filter": {
+        "english_name": "Attribute Filter",
+        "chinese_name": "属性过滤器",
+        "pinyin": "shu xing guo lv qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weighted_ejector": {
+        "english_name": "Weighted Ejector",
+        "chinese_name": "弹射置物台",
+        "pinyin": "tan she zhi wu tai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:smart_chute": {
+        "english_name": "Smart Chute",
+        "chinese_name": "智能溜槽",
+        "pinyin": "zhi neng liu cao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:item_vault": {
+        "english_name": "Item Vault",
+        "chinese_name": "物品保险库",
+        "pinyin": "wu pin bao xian ku",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_funnel": {
+        "english_name": "Andesite Funnel",
+        "chinese_name": "安山漏斗",
+        "pinyin": "an shan lou dou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_funnel": {
+        "english_name": "Brass Funnel",
+        "chinese_name": "黄铜漏斗",
+        "pinyin": "huang tong lou dou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:item_hatch": {
+        "english_name": "Item Hatch",
+        "chinese_name": "物品舱口",
+        "pinyin": "wu pin cang kou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:depot": {
+        "english_name": "Depot",
+        "chinese_name": "置物台",
+        "pinyin": "zhi wu tai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:chute": {
+        "english_name": "Chute",
+        "chinese_name": "溜槽",
+        "pinyin": "liu cao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_arm": {
+        "english_name": "Mechanical Arm",
+        "chinese_name": "动力臂",
+        "pinyin": "dong li bi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_tunnel": {
+        "english_name": "Andesite Tunnel",
+        "chinese_name": "安山隧道",
+        "pinyin": "an shan sui dao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_tunnel": {
+        "english_name": "Brass Tunnel",
+        "chinese_name": "黄铜隧道",
+        "pinyin": "huang tong sui dao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:creative_crate": {
+        "english_name": "Creative Crate",
+        "chinese_name": "创造板条箱",
+        "pinyin": "chuang zao ban tiao xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:factory_gauge": {
+        "english_name": "Factory Gauge",
+        "chinese_name": "工厂仪表",
+        "pinyin": "gong chang yi biao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:package_filter": {
+        "english_name": "Package Filter",
+        "chinese_name": "包裹过滤器",
+        "pinyin": "bao guo guo lv qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:package_frogport": {
+        "english_name": "Package Frogport",
+        "chinese_name": "货物蛙港",
+        "pinyin": "huo wu wa gang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:packager": {
+        "english_name": "Packager",
+        "chinese_name": "打包机",
+        "pinyin": "da bao ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:redstone_requester": {
+        "english_name": "Redstone Requester",
+        "chinese_name": "红石请求器",
+        "pinyin": "hong shi qing qiu qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:repackager": {
+        "english_name": "Repackager",
+        "chinese_name": "理包机",
+        "pinyin": "li bao ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:stock_link": {
+        "english_name": "Stock Link",
+        "chinese_name": "仓储链接站",
+        "pinyin": "cang chu lian jie zhan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:stock_ticker": {
+        "english_name": "Stock Ticker",
+        "chinese_name": "仓储发报机",
+        "pinyin": "cang chu fa bao ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_package_10x12": {
+        "english_name": "Cardboard Package 10X12",
+        "chinese_name": "纸壳包裹",
+        "pinyin": "zhi ke bao guo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_package_10x8": {
+        "english_name": "Cardboard Package 10X8",
+        "chinese_name": "纸壳包裹",
+        "pinyin": "zhi ke bao guo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_package_12x10": {
+        "english_name": "Cardboard Package 12X10",
+        "chinese_name": "纸壳包裹",
+        "pinyin": "zhi ke bao guo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_package_12x12": {
+        "english_name": "Cardboard Package 12X12",
+        "chinese_name": "纸壳包裹",
+        "pinyin": "zhi ke bao guo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:black_table_cloth": {
+        "english_name": "Black Table Cloth",
+        "chinese_name": "黑色桌布",
+        "pinyin": "hei se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blue_table_cloth": {
+        "english_name": "Blue Table Cloth",
+        "chinese_name": "蓝色桌布",
+        "pinyin": "lan se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brown_table_cloth": {
+        "english_name": "Brown Table Cloth",
+        "chinese_name": "棕色桌布",
+        "pinyin": "zong se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cyan_table_cloth": {
+        "english_name": "Cyan Table Cloth",
+        "chinese_name": "青色桌布",
+        "pinyin": "qing se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gray_table_cloth": {
+        "english_name": "Gray Table Cloth",
+        "chinese_name": "灰色桌布",
+        "pinyin": "hui se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:green_table_cloth": {
+        "english_name": "Green Table Cloth",
+        "chinese_name": "绿色桌布",
+        "pinyin": "lv se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_blue_table_cloth": {
+        "english_name": "Light Blue Table Cloth",
+        "chinese_name": "淡蓝色桌布",
+        "pinyin": "dan lan se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_gray_table_cloth": {
+        "english_name": "Light Gray Table Cloth",
+        "chinese_name": "淡灰色桌布",
+        "pinyin": "dan hui se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:lime_table_cloth": {
+        "english_name": "Lime Table Cloth",
+        "chinese_name": "黄绿色桌布",
+        "pinyin": "huang lv se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:magenta_table_cloth": {
+        "english_name": "Magenta Table Cloth",
+        "chinese_name": "品红色桌布",
+        "pinyin": "pin hong se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:orange_table_cloth": {
+        "english_name": "Orange Table Cloth",
+        "chinese_name": "橙色桌布",
+        "pinyin": "cheng se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pink_table_cloth": {
+        "english_name": "Pink Table Cloth",
+        "chinese_name": "粉红色桌布",
+        "pinyin": "fen hong se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:purple_table_cloth": {
+        "english_name": "Purple Table Cloth",
+        "chinese_name": "紫色桌布",
+        "pinyin": "zi se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:red_table_cloth": {
+        "english_name": "Red Table Cloth",
+        "chinese_name": "红色桌布",
+        "pinyin": "hong se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:white_table_cloth": {
+        "english_name": "White Table Cloth",
+        "chinese_name": "白色桌布",
+        "pinyin": "bai se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:yellow_table_cloth": {
+        "english_name": "Yellow Table Cloth",
+        "chinese_name": "黄色桌布",
+        "pinyin": "huang se zhuo bu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_table_cloth": {
+        "english_name": "Andesite Table Cloth",
+        "chinese_name": "安山桌面",
+        "pinyin": "an shan zhuo mian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_table_cloth": {
+        "english_name": "Brass Table Cloth",
+        "chinese_name": "黄铜桌面",
+        "pinyin": "huang tong zhuo mian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_table_cloth": {
+        "english_name": "Copper Table Cloth",
+        "chinese_name": "铜桌面",
+        "pinyin": "tong zhuo mian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:black_postbox": {
+        "english_name": "Black Postbox",
+        "chinese_name": "黑色邮箱",
+        "pinyin": "hei se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blue_postbox": {
+        "english_name": "Blue Postbox",
+        "chinese_name": "蓝色邮箱",
+        "pinyin": "lan se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brown_postbox": {
+        "english_name": "Brown Postbox",
+        "chinese_name": "棕色邮箱",
+        "pinyin": "zong se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cyan_postbox": {
+        "english_name": "Cyan Postbox",
+        "chinese_name": "青色邮箱",
+        "pinyin": "qing se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gray_postbox": {
+        "english_name": "Gray Postbox",
+        "chinese_name": "灰色邮箱",
+        "pinyin": "hui se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:green_postbox": {
+        "english_name": "Green Postbox",
+        "chinese_name": "绿色邮箱",
+        "pinyin": "lv se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_blue_postbox": {
+        "english_name": "Light Blue Postbox",
+        "chinese_name": "淡蓝色邮箱",
+        "pinyin": "dan lan se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_gray_postbox": {
+        "english_name": "Light Gray Postbox",
+        "chinese_name": "淡灰色邮箱",
+        "pinyin": "dan hui se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:lime_postbox": {
+        "english_name": "Lime Postbox",
+        "chinese_name": "黄绿色邮箱",
+        "pinyin": "huang lv se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:magenta_postbox": {
+        "english_name": "Magenta Postbox",
+        "chinese_name": "品红色邮箱",
+        "pinyin": "pin hong se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:orange_postbox": {
+        "english_name": "Orange Postbox",
+        "chinese_name": "橙色邮箱",
+        "pinyin": "cheng se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pink_postbox": {
+        "english_name": "Pink Postbox",
+        "chinese_name": "粉红色邮箱",
+        "pinyin": "fen hong se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:purple_postbox": {
+        "english_name": "Purple Postbox",
+        "chinese_name": "紫色邮箱",
+        "pinyin": "zi se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:red_postbox": {
+        "english_name": "Red Postbox",
+        "chinese_name": "红色邮箱",
+        "pinyin": "hong se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:white_postbox": {
+        "english_name": "White Postbox",
+        "chinese_name": "白色邮箱",
+        "pinyin": "bai se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:yellow_postbox": {
+        "english_name": "Yellow Postbox",
+        "chinese_name": "黄色邮箱",
+        "pinyin": "huang se you xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:stockpile_switch": {
+        "english_name": "Stockpile Switch",
+        "chinese_name": "存量转信器",
+        "pinyin": "cun liang zhuan xin qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:content_observer": {
+        "english_name": "Content Observer",
+        "chinese_name": "智能侦测器",
+        "pinyin": "zhi neng zhen ce qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:redstone_contact": {
+        "english_name": "Redstone Contact",
+        "chinese_name": "接触式红石信号发生器",
+        "pinyin": "jie chu shi hong shi xin hao fa sheng qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:analog_lever": {
+        "english_name": "Analog Lever",
+        "chinese_name": "模拟拉杆",
+        "pinyin": "mo ni la gan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:redstone_link": {
+        "english_name": "Redstone Link",
+        "chinese_name": "无线红石信号终端",
+        "pinyin": "wu xian hong shi xin hao zhong duan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pulse_extender": {
+        "english_name": "Pulse Extender",
+        "chinese_name": "脉冲延长器",
+        "pinyin": "mai chong yan chang qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pulse_repeater": {
+        "english_name": "Pulse Repeater",
+        "chinese_name": "脉冲中继器",
+        "pinyin": "mai chong zhong ji qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pulse_timer": {
+        "english_name": "Pulse Timer",
+        "chinese_name": "脉冲计时器",
+        "pinyin": "mai chong ji shi qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:powered_latch": {
+        "english_name": "Powered Latch",
+        "chinese_name": "锁存器",
+        "pinyin": "suo cun qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:powered_toggle_latch": {
+        "english_name": "Powered Toggle Latch",
+        "chinese_name": "转换锁存器",
+        "pinyin": "zhuan huan suo cun qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:rose_quartz_lamp": {
+        "english_name": "Rose Quartz Lamp",
+        "chinese_name": "玫瑰石英灯",
+        "pinyin": "mei gui shi ying deng",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:placard": {
+        "english_name": "Placard",
+        "chinese_name": "置物板",
+        "pinyin": "zhi wu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:desk_bell": {
+        "english_name": "Desk Bell",
+        "chinese_name": "呼唤铃",
+        "pinyin": "hu huan ling",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:speedometer": {
+        "english_name": "Speedometer",
+        "chinese_name": "速度表",
+        "pinyin": "su du biao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:stressometer": {
+        "english_name": "Stressometer",
+        "chinese_name": "应力表",
+        "pinyin": "ying li biao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:display_link": {
+        "english_name": "Display Link",
+        "chinese_name": "显示链接器",
+        "pinyin": "xian shi lian jie qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:display_board": {
+        "english_name": "Display Board",
+        "chinese_name": "翻牌显示器",
+        "pinyin": "fan pai xian shi qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:nixie_tube": {
+        "english_name": "Nixie Tube",
+        "chinese_name": "辉光管",
+        "pinyin": "hui guang guan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_piston": {
+        "english_name": "Mechanical Piston",
+        "chinese_name": "动力活塞",
+        "pinyin": "dong li huo sai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:sticky_mechanical_piston": {
+        "english_name": "Sticky Mechanical Piston",
+        "chinese_name": "黏性动力活塞",
+        "pinyin": "nian xing dong li huo sai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mechanical_bearing": {
+        "english_name": "Mechanical Bearing",
+        "chinese_name": "动力轴承",
+        "pinyin": "dong li zhou cheng",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:clockwork_bearing": {
+        "english_name": "Clockwork Bearing",
+        "chinese_name": "时钟轴承",
+        "pinyin": "shi zhong zhou cheng",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:rope_pulley": {
+        "english_name": "Rope Pulley",
+        "chinese_name": "绳索滑轮",
+        "pinyin": "sheng suo hua lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:elevator_pulley": {
+        "english_name": "Elevator Pulley",
+        "chinese_name": "升降机滑轮",
+        "pinyin": "sheng jiang ji hua lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gantry_carriage": {
+        "english_name": "Gantry Carriage",
+        "chinese_name": "起重机取物器",
+        "pinyin": "qi zhong ji qu wu qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cart_assembler": {
+        "english_name": "Cart Assembler",
+        "chinese_name": "矿车装配站",
+        "pinyin": "kuang che zhuang pei zhan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:piston_extension_pole": {
+        "english_name": "Piston Extension Pole",
+        "chinese_name": "活塞杆",
+        "pinyin": "huo sai gan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gantry_shaft": {
+        "english_name": "Gantry Shaft",
+        "chinese_name": "起重机杆",
+        "pinyin": "qi zhong ji gan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:linear_chassis": {
+        "english_name": "Linear Chassis",
+        "chinese_name": "轴向底盘",
+        "pinyin": "zhou xiang di pan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:secondary_linear_chassis": {
+        "english_name": "Secondary Linear Chassis",
+        "chinese_name": "轴向底盘二号",
+        "pinyin": "zhou xiang di pan er hao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:radial_chassis": {
+        "english_name": "Radial Chassis",
+        "chinese_name": "径向底盘",
+        "pinyin": "jing xiang di pan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:sticker": {
+        "english_name": "Sticker",
+        "chinese_name": "黏着器",
+        "pinyin": "nian zhe qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:contraption_controls": {
+        "english_name": "Contraption Controls",
+        "chinese_name": "动态结构控制器",
+        "pinyin": "dong tai jie gou kong zhi qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:elevator_contact": {
+        "english_name": "Elevator Contact",
+        "chinese_name": "升降机锚点",
+        "pinyin": "sheng jiang ji mao dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:track": {
+        "english_name": "Track",
+        "chinese_name": "列车轨道",
+        "pinyin": "lie che gui dao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:track_station": {
+        "english_name": "Track Station",
+        "chinese_name": "列车站点",
+        "pinyin": "lie che zhan dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:track_signal": {
+        "english_name": "Track Signal",
+        "chinese_name": "列车信号机",
+        "pinyin": "lie che xin hao ji",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:track_observer": {
+        "english_name": "Track Observer",
+        "chinese_name": "列车侦测器",
+        "pinyin": "lie che zhen ce qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:controls": {
+        "english_name": "Controls",
+        "chinese_name": "列车驾驶台",
+        "pinyin": "lie che jia shi tai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:schedule": {
+        "english_name": "Schedule",
+        "chinese_name": "列车时刻表",
+        "pinyin": "lie che shi ke biao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:railway_casing": {
+        "english_name": "Railway Casing",
+        "chinese_name": "列车机壳",
+        "pinyin": "lie che ji ke",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:turntable": {
+        "english_name": "Turntable",
+        "chinese_name": "转盘",
+        "pinyin": "zhuan pan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cuckoo_clock": {
+        "english_name": "Cuckoo Clock",
+        "chinese_name": "布谷鸟闹钟",
+        "pinyin": "bu gu diao nao zhong",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mysterious_cuckoo_clock": {
+        "english_name": "Mysterious Cuckoo Clock",
+        "chinese_name": "布谷鸟闹钟（陷阱版本）",
+        "pinyin": "bu gu diao nao zhong （ xian jing ban ben ）",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:flywheel": {
+        "english_name": "Flywheel",
+        "chinese_name": "飞轮",
+        "pinyin": "fei lun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:steam_whistle": {
+        "english_name": "Steam Whistle",
+        "chinese_name": "蒸汽笛",
+        "pinyin": "zheng qi di",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:tree_fertilizer": {
+        "english_name": "Tree Fertilizer",
+        "chinese_name": "树木肥料",
+        "pinyin": "shu mu fei liao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:minecart_contraption": {
+        "english_name": "Minecart Contraption",
+        "chinese_name": "装配过的矿车",
+        "pinyin": "zhuang pei guo de kuang che",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:furnace_minecart_contraption": {
+        "english_name": "Furnace Minecart Contraption",
+        "chinese_name": "装配过的动力矿车",
+        "pinyin": "zhuang pei guo de dong li kuang che",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:chest_minecart_contraption": {
+        "english_name": "Chest Minecart Contraption",
+        "chinese_name": "装配过的运输矿车",
+        "pinyin": "zhuang pei guo de yun shu kuang che",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blaze_cake": {
+        "english_name": "Blaze Cake",
+        "chinese_name": "烈焰蛋糕",
+        "pinyin": "lie yan dan gao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:minecart_coupling": {
+        "english_name": "Minecart Coupling",
+        "chinese_name": "矿车连轴器",
+        "pinyin": "kuang che lian zhou qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:shopping_list": {
+        "english_name": "Shopping List",
+        "chinese_name": "采购清单",
+        "pinyin": "cai gou qing dan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crafter_slot_cover": {
+        "english_name": "Crafter Slot Cover",
+        "chinese_name": "合成槽盖板",
+        "pinyin": "he cheng cao gai ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:experience_nugget": {
+        "english_name": "Experience Nugget",
+        "chinese_name": "经验颗粒",
+        "pinyin": "jing yan ke li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:wrench": {
+        "english_name": "Wrench",
+        "chinese_name": "扳手",
+        "pinyin": "ban shou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:goggles": {
+        "english_name": "Goggles",
+        "chinese_name": "工程师护目镜",
+        "pinyin": "gong cheng shi hu mu jing",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:super_glue": {
+        "english_name": "Super Glue",
+        "chinese_name": "强力胶",
+        "pinyin": "qiang li jiao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:clipboard": {
+        "english_name": "Clipboard",
+        "chinese_name": "剪贴板",
+        "pinyin": "jian tie ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:extendo_grip": {
+        "english_name": "Extendo Grip",
+        "chinese_name": "伸缩机械手",
+        "pinyin": "shen suo ji xie shou",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:linked_controller": {
+        "english_name": "Linked Controller",
+        "chinese_name": "无线红石遥控器",
+        "pinyin": "wu xian hong shi yao kong qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:sand_paper": {
+        "english_name": "Sand Paper",
+        "chinese_name": "砂纸",
+        "pinyin": "sha zhi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:red_sand_paper": {
+        "english_name": "Red Sand Paper",
+        "chinese_name": "红沙砂纸",
+        "pinyin": "hong sha sha zhi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:wand_of_symmetry": {
+        "english_name": "Wand Of Symmetry",
+        "chinese_name": "对称之杖",
+        "pinyin": "dui chen zhi zhang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:handheld_worldshaper": {
+        "english_name": "Handheld Worldshaper",
+        "chinese_name": "创造模式世界塑形器",
+        "pinyin": "chuang zao mo shi shi jie su xing qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:potato_cannon": {
+        "english_name": "Potato Cannon",
+        "chinese_name": "土豆加农炮",
+        "pinyin": "tu dou jia nong pao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_sword": {
+        "english_name": "Cardboard Sword",
+        "chinese_name": "纸棍",
+        "pinyin": "zhi gun",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diving_helmet": {
+        "english_name": "Diving Helmet",
+        "chinese_name": "潜水头盔",
+        "pinyin": "qian shui tou kui",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:netherite_diving_helmet": {
+        "english_name": "Netherite Diving Helmet",
+        "chinese_name": "下界合金潜水头盔",
+        "pinyin": "xia jie he jin qian shui tou kui",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_backtank": {
+        "english_name": "Copper Backtank",
+        "chinese_name": "铜背罐",
+        "pinyin": "tong bei guan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:netherite_backtank": {
+        "english_name": "Netherite Backtank",
+        "chinese_name": "下界合金背罐",
+        "pinyin": "xia jie he jin bei guan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diving_boots": {
+        "english_name": "Diving Boots",
+        "chinese_name": "潜水靴",
+        "pinyin": "qian shui xue",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:netherite_diving_boots": {
+        "english_name": "Netherite Diving Boots",
+        "chinese_name": "下界合金潜水靴",
+        "pinyin": "xia jie he jin qian shui xue",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_helmet": {
+        "english_name": "Cardboard Helmet",
+        "chinese_name": "纸板头盔",
+        "pinyin": "zhi ban tou kui",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_chestplate": {
+        "english_name": "Cardboard Chestplate",
+        "chinese_name": "纸板胸甲",
+        "pinyin": "zhi ban xiong jia",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_leggings": {
+        "english_name": "Cardboard Leggings",
+        "chinese_name": "纸板护腿",
+        "pinyin": "zhi ban hu tui",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_boots": {
+        "english_name": "Cardboard Boots",
+        "chinese_name": "纸板靴子",
+        "pinyin": "zhi ban xue zi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:bar_of_chocolate": {
+        "english_name": "Bar Of Chocolate",
+        "chinese_name": "巧克力棒",
+        "pinyin": "qiao ke li bang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:builders_tea": {
+        "english_name": "Builders Tea",
+        "chinese_name": "建筑工茶饮",
+        "pinyin": "jian zhu gong cha yin",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:sweet_roll": {
+        "english_name": "Sweet Roll",
+        "chinese_name": "甜甜卷",
+        "pinyin": "tian tian juan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:chocolate_glazed_berries": {
+        "english_name": "Chocolate Glazed Berries",
+        "chinese_name": "巧克力包层浆果",
+        "pinyin": "qiao ke li bao ceng jiang guo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:honeyed_apple": {
+        "english_name": "Honeyed Apple",
+        "chinese_name": "蜜渍苹果",
+        "pinyin": "mi zi ping guo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:schematic_and_quill": {
+        "english_name": "Schematic And Quill",
+        "chinese_name": "蓝图与笔",
+        "pinyin": "lan tu yu bi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:empty_schematic": {
+        "english_name": "Empty Schematic",
+        "chinese_name": "空白蓝图",
+        "pinyin": "kong bai lan tu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:schematicannon": {
+        "english_name": "Schematicannon",
+        "chinese_name": "蓝图加农炮",
+        "pinyin": "lan tu jia nong pao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:schematic_table": {
+        "english_name": "Schematic Table",
+        "chinese_name": "蓝图桌",
+        "pinyin": "lan tu zhuo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:schematic": {
+        "english_name": "Schematic",
+        "chinese_name": "蓝图",
+        "pinyin": "lan tu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:creative_blaze_cake": {
+        "english_name": "Creative Blaze Cake",
+        "chinese_name": "创造烈焰蛋糕",
+        "pinyin": "chuang zao lie yan dan gao",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:white_seat": {
+        "english_name": "White Seat",
+        "chinese_name": "白色坐垫",
+        "pinyin": "bai se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:orange_seat": {
+        "english_name": "Orange Seat",
+        "chinese_name": "橙色坐垫",
+        "pinyin": "cheng se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:magenta_seat": {
+        "english_name": "Magenta Seat",
+        "chinese_name": "品红色坐垫",
+        "pinyin": "pin hong se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_blue_seat": {
+        "english_name": "Light Blue Seat",
+        "chinese_name": "淡蓝色坐垫",
+        "pinyin": "dan lan se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:yellow_seat": {
+        "english_name": "Yellow Seat",
+        "chinese_name": "黄色坐垫",
+        "pinyin": "huang se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:lime_seat": {
+        "english_name": "Lime Seat",
+        "chinese_name": "黄绿色坐垫",
+        "pinyin": "huang lv se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pink_seat": {
+        "english_name": "Pink Seat",
+        "chinese_name": "粉红色坐垫",
+        "pinyin": "fen hong se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gray_seat": {
+        "english_name": "Gray Seat",
+        "chinese_name": "灰色坐垫",
+        "pinyin": "hui se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_gray_seat": {
+        "english_name": "Light Gray Seat",
+        "chinese_name": "淡灰色坐垫",
+        "pinyin": "dan hui se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cyan_seat": {
+        "english_name": "Cyan Seat",
+        "chinese_name": "青色坐垫",
+        "pinyin": "qing se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:purple_seat": {
+        "english_name": "Purple Seat",
+        "chinese_name": "紫色坐垫",
+        "pinyin": "zi se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blue_seat": {
+        "english_name": "Blue Seat",
+        "chinese_name": "蓝色坐垫",
+        "pinyin": "lan se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brown_seat": {
+        "english_name": "Brown Seat",
+        "chinese_name": "棕色坐垫",
+        "pinyin": "zong se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:green_seat": {
+        "english_name": "Green Seat",
+        "chinese_name": "绿色坐垫",
+        "pinyin": "lv se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:red_seat": {
+        "english_name": "Red Seat",
+        "chinese_name": "红色坐垫",
+        "pinyin": "hong se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:black_seat": {
+        "english_name": "Black Seat",
+        "chinese_name": "黑色坐垫",
+        "pinyin": "hei se zuo dian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:peculiar_bell": {
+        "english_name": "Peculiar Bell",
+        "chinese_name": "奇异钟",
+        "pinyin": "qi yi zhong",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:haunted_bell": {
+        "english_name": "Haunted Bell",
+        "chinese_name": "缠魂钟",
+        "pinyin": "chan hun zhong",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crafting_blueprint": {
+        "english_name": "Crafting Blueprint",
+        "chinese_name": "合成蓝图",
+        "pinyin": "he cheng lan tu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:white_toolbox": {
+        "english_name": "White Toolbox",
+        "chinese_name": "白色工具箱",
+        "pinyin": "bai se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:orange_toolbox": {
+        "english_name": "Orange Toolbox",
+        "chinese_name": "橙色工具箱",
+        "pinyin": "cheng se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:magenta_toolbox": {
+        "english_name": "Magenta Toolbox",
+        "chinese_name": "品红色工具箱",
+        "pinyin": "pin hong se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_blue_toolbox": {
+        "english_name": "Light Blue Toolbox",
+        "chinese_name": "淡蓝色工具箱",
+        "pinyin": "dan lan se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:yellow_toolbox": {
+        "english_name": "Yellow Toolbox",
+        "chinese_name": "黄色工具箱",
+        "pinyin": "huang se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:lime_toolbox": {
+        "english_name": "Lime Toolbox",
+        "chinese_name": "黄绿色工具箱",
+        "pinyin": "huang lv se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pink_toolbox": {
+        "english_name": "Pink Toolbox",
+        "chinese_name": "粉红色工具箱",
+        "pinyin": "fen hong se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:gray_toolbox": {
+        "english_name": "Gray Toolbox",
+        "chinese_name": "灰色工具箱",
+        "pinyin": "hui se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:light_gray_toolbox": {
+        "english_name": "Light Gray Toolbox",
+        "chinese_name": "淡灰色工具箱",
+        "pinyin": "dan hui se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cyan_toolbox": {
+        "english_name": "Cyan Toolbox",
+        "chinese_name": "青色工具箱",
+        "pinyin": "qing se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:purple_toolbox": {
+        "english_name": "Purple Toolbox",
+        "chinese_name": "紫色工具箱",
+        "pinyin": "zi se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blue_toolbox": {
+        "english_name": "Blue Toolbox",
+        "chinese_name": "蓝色工具箱",
+        "pinyin": "lan se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brown_toolbox": {
+        "english_name": "Brown Toolbox",
+        "chinese_name": "棕色工具箱",
+        "pinyin": "zong se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:green_toolbox": {
+        "english_name": "Green Toolbox",
+        "chinese_name": "绿色工具箱",
+        "pinyin": "lv se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:red_toolbox": {
+        "english_name": "Red Toolbox",
+        "chinese_name": "红色工具箱",
+        "pinyin": "hong se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:black_toolbox": {
+        "english_name": "Black Toolbox",
+        "chinese_name": "黑色工具箱",
+        "pinyin": "hei se gong ju xiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_scaffolding": {
+        "english_name": "Andesite Scaffolding",
+        "chinese_name": "安山脚手架",
+        "pinyin": "an shan jiao shou jia",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_scaffolding": {
+        "english_name": "Brass Scaffolding",
+        "chinese_name": "黄铜脚手架",
+        "pinyin": "huang tong jiao shou jia",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_scaffolding": {
+        "english_name": "Copper Scaffolding",
+        "chinese_name": "铜脚手架",
+        "pinyin": "tong jiao shou jia",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:sail_frame": {
+        "english_name": "Sail Frame",
+        "chinese_name": "风帆框架",
+        "pinyin": "feng fan kuang jia",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:white_sail": {
+        "english_name": "White Sail",
+        "chinese_name": "白色风帆",
+        "pinyin": "bai se feng fan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:controller_rail": {
+        "english_name": "Controller Rail",
+        "chinese_name": "控制铁轨",
+        "pinyin": "kong zhi tie gui",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:precision_mechanism": {
+        "english_name": "Precision Mechanism",
+        "chinese_name": "精密构件",
+        "pinyin": "jing mi gou jian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:dough": {
+        "english_name": "Dough",
+        "chinese_name": "面团",
+        "pinyin": "mian tuan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:rose_quartz": {
+        "english_name": "Rose Quartz",
+        "chinese_name": "玫瑰石英",
+        "pinyin": "mei gui shi ying",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_rose_quartz": {
+        "english_name": "Polished Rose Quartz",
+        "chinese_name": "磨制玫瑰石英",
+        "pinyin": "mo zhi mei gui shi ying",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:electron_tube": {
+        "english_name": "Electron Tube",
+        "chinese_name": "电子管",
+        "pinyin": "dian zi guan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_hand": {
+        "english_name": "Brass Hand",
+        "chinese_name": "黄铜手部零件",
+        "pinyin": "huang tong shou bu ling jian",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:propeller": {
+        "english_name": "Propeller",
+        "chinese_name": "扇叶",
+        "pinyin": "shan ye",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:whisk": {
+        "english_name": "Whisk",
+        "chinese_name": "搅拌器",
+        "pinyin": "jiao ban qi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:blaze_cake_base": {
+        "english_name": "Blaze Cake Base",
+        "chinese_name": "烈焰蛋糕胚",
+        "pinyin": "lie yan dan gao pei",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:pulp": {
+        "english_name": "Pulp",
+        "chinese_name": "纸浆",
+        "pinyin": "zhi jiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:transmitter": {
+        "english_name": "Transmitter",
+        "chinese_name": "发信线圈",
+        "pinyin": "fa xin xian quan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_alloy": {
+        "english_name": "Andesite Alloy",
+        "chinese_name": "安山合金",
+        "pinyin": "an shan he jin",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:zinc_ingot": {
+        "english_name": "Zinc Ingot",
+        "chinese_name": "锌锭",
+        "pinyin": "xin ding",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_ingot": {
+        "english_name": "Brass Ingot",
+        "chinese_name": "黄铜锭",
+        "pinyin": "huang tong ding",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_nugget": {
+        "english_name": "Copper Nugget",
+        "chinese_name": "铜粒",
+        "pinyin": "tong li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:zinc_nugget": {
+        "english_name": "Zinc Nugget",
+        "chinese_name": "锌粒",
+        "pinyin": "xin li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_nugget": {
+        "english_name": "Brass Nugget",
+        "chinese_name": "黄铜粒",
+        "pinyin": "huang tong li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:iron_sheet": {
+        "english_name": "Iron Sheet",
+        "chinese_name": "铁板",
+        "pinyin": "tie ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_sheet": {
+        "english_name": "Copper Sheet",
+        "chinese_name": "铜板",
+        "pinyin": "tong ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:golden_sheet": {
+        "english_name": "Golden Sheet",
+        "chinese_name": "金板",
+        "pinyin": "jin ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_sheet": {
+        "english_name": "Brass Sheet",
+        "chinese_name": "黄铜板",
+        "pinyin": "huang tong ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:sturdy_sheet": {
+        "english_name": "Sturdy Sheet",
+        "chinese_name": "坚固板",
+        "pinyin": "jian gu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard": {
+        "english_name": "Cardboard",
+        "chinese_name": "纸板",
+        "pinyin": "zhi ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:wheat_flour": {
+        "english_name": "Wheat Flour",
+        "chinese_name": "小麦粉",
+        "pinyin": "xiao mai fen",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:powdered_obsidian": {
+        "english_name": "Powdered Obsidian",
+        "chinese_name": "黑曜石粉末",
+        "pinyin": "hei yao shi fen mo",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cinder_flour": {
+        "english_name": "Cinder Flour",
+        "chinese_name": "余烬面粉",
+        "pinyin": "yu jin mian fen",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:zinc_ore": {
+        "english_name": "Zinc Ore",
+        "chinese_name": "锌矿石",
+        "pinyin": "xin kuang shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:deepslate_zinc_ore": {
+        "english_name": "Deepslate Zinc Ore",
+        "chinese_name": "深层锌矿石",
+        "pinyin": "shen ceng xin kuang shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:ochrum": {
+        "english_name": "Ochrum",
+        "chinese_name": "赭金砂",
+        "pinyin": "zhe jin sha",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:asurine": {
+        "english_name": "Asurine",
+        "chinese_name": "皓蓝石",
+        "pinyin": "hao lan shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crimsite": {
+        "english_name": "Crimsite",
+        "chinese_name": "绯红岩",
+        "pinyin": "fei hong yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:veridium": {
+        "english_name": "Veridium",
+        "chinese_name": "辉绿岩",
+        "pinyin": "hui lv yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:raw_zinc": {
+        "english_name": "Raw Zinc",
+        "chinese_name": "粗锌",
+        "pinyin": "cu xin",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:raw_zinc_block": {
+        "english_name": "Raw Zinc Block",
+        "chinese_name": "粗锌块",
+        "pinyin": "cu xin kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crushed_iron_ore": {
+        "english_name": "Crushed Iron Ore",
+        "chinese_name": "粉碎铁矿石",
+        "pinyin": "fen sui tie kuang shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crushed_gold_ore": {
+        "english_name": "Crushed Gold Ore",
+        "chinese_name": "粉碎金矿石",
+        "pinyin": "fen sui jin kuang shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crushed_copper_ore": {
+        "english_name": "Crushed Copper Ore",
+        "chinese_name": "粉碎铜矿石",
+        "pinyin": "fen sui tong kuang shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crushed_zinc_ore": {
+        "english_name": "Crushed Zinc Ore",
+        "chinese_name": "粉碎锌矿石",
+        "pinyin": "fen sui xin kuang shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:incomplete_precision_mechanism": {
+        "english_name": "Incomplete Precision Mechanism",
+        "chinese_name": "精密构件（半成品）",
+        "pinyin": "jing mi gou jian （ ban cheng pin ）",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:incomplete_track": {
+        "english_name": "Incomplete Track",
+        "chinese_name": "列车轨道（半成品）",
+        "pinyin": "lie che gui dao （ ban cheng pin ）",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:unprocessed_obsidian_sheet": {
+        "english_name": "Unprocessed Obsidian Sheet",
+        "chinese_name": "未加工的黑曜石板",
+        "pinyin": "wei jia gong de hei yao shi ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_casing": {
+        "english_name": "Andesite Casing",
+        "chinese_name": "安山机壳",
+        "pinyin": "an shan ji ke",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_casing": {
+        "english_name": "Brass Casing",
+        "chinese_name": "黄铜机壳",
+        "pinyin": "huang tong ji ke",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_casing": {
+        "english_name": "Copper Casing",
+        "chinese_name": "铜机壳",
+        "pinyin": "tong ji ke",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:zinc_block": {
+        "english_name": "Zinc Block",
+        "chinese_name": "锌块",
+        "pinyin": "xin kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_alloy_block": {
+        "english_name": "Andesite Alloy Block",
+        "chinese_name": "安山合金块",
+        "pinyin": "an shan he jin kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_block": {
+        "english_name": "Brass Block",
+        "chinese_name": "黄铜块",
+        "pinyin": "huang tong kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:industrial_iron_block": {
+        "english_name": "Industrial Iron Block",
+        "chinese_name": "工业铁块",
+        "pinyin": "gong ye tie kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_iron_block": {
+        "english_name": "Block of Weathered Iron",
+        "chinese_name": "锈蚀的工业铁块",
+        "pinyin": "xiu shi de gong ye tie kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:experience_block": {
+        "english_name": "Experience Block",
+        "chinese_name": "经验块",
+        "pinyin": "jing yan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:rose_quartz_block": {
+        "english_name": "Rose Quartz Block",
+        "chinese_name": "玫瑰石英块",
+        "pinyin": "mei gui shi ying kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:rose_quartz_tiles": {
+        "english_name": "Rose Quartz Tiles",
+        "chinese_name": "玫瑰石英砖块",
+        "pinyin": "mei gui shi ying zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_rose_quartz_tiles": {
+        "english_name": "Small Rose Quartz Tiles",
+        "chinese_name": "玫瑰石英小砖块",
+        "pinyin": "mei gui shi ying xiao zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:metal_girder": {
+        "english_name": "Metal Girder",
+        "chinese_name": "金属梁",
+        "pinyin": "jin shu liang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:wooden_bracket": {
+        "english_name": "Wooden Bracket",
+        "chinese_name": "木质支架",
+        "pinyin": "mu zhi zhi jia",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:metal_bracket": {
+        "english_name": "Metal Bracket",
+        "chinese_name": "金属支架",
+        "pinyin": "jin shu zhi jia",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:bound_cardboard_block": {
+        "english_name": "Bound Cardboard Block",
+        "chinese_name": "打包纸板块",
+        "pinyin": "da bao zhi ban kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cardboard_block": {
+        "english_name": "Cardboard Block",
+        "chinese_name": "纸板块",
+        "pinyin": "zhi ban kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copycat_panel": {
+        "english_name": "Copycat Panel",
+        "chinese_name": "伪装板",
+        "pinyin": "wei zhuang ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copycat_step": {
+        "english_name": "Copycat Step",
+        "chinese_name": "伪装半阶",
+        "pinyin": "wei zhuang ban jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:train_door": {
+        "english_name": "Train Door",
+        "chinese_name": "列车门",
+        "pinyin": "lie che men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:framed_glass_door": {
+        "english_name": "Framed Glass Door",
+        "chinese_name": "边框玻璃门",
+        "pinyin": "bian kuang bo li men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_door": {
+        "english_name": "Andesite Door",
+        "chinese_name": "安山门",
+        "pinyin": "an shan men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_door": {
+        "english_name": "Copper Door",
+        "chinese_name": "铜门",
+        "pinyin": "tong men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_door": {
+        "english_name": "Brass Door",
+        "chinese_name": "黄铜门",
+        "pinyin": "huang tong men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:train_trapdoor": {
+        "english_name": "Train Trapdoor",
+        "chinese_name": "列车活板门",
+        "pinyin": "lie che huo ban men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:framed_glass_trapdoor": {
+        "english_name": "Framed Glass Trapdoor",
+        "chinese_name": "边框玻璃活板门",
+        "pinyin": "bian kuang bo li huo ban men",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_copper_tiles": {
+        "english_name": "Waxed Copper Tiles",
+        "chinese_name": "涂蜡铜瓦",
+        "pinyin": "tu la tong wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_oxidized_copper_shingle_stairs": {
+        "english_name": "Waxed Oxidized Copper Shingle Stairs",
+        "chinese_name": "氧化的涂蜡铜砖瓦楼梯",
+        "pinyin": "yang hua de tu la tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_tile_slab": {
+        "english_name": "Copper Tile Slab",
+        "chinese_name": "铜瓦台阶",
+        "pinyin": "tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_oxidized_copper_tile_stairs": {
+        "english_name": "Waxed Oxidized Copper Tile Stairs",
+        "chinese_name": "氧化的涂蜡铜瓦楼梯",
+        "pinyin": "yang hua de tu la tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:exposed_copper_shingles": {
+        "english_name": "Exposed Copper Shingles",
+        "chinese_name": "斑驳的铜砖瓦",
+        "pinyin": "ban bo de tong zhuan wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_oxidized_copper_tile_slab": {
+        "english_name": "Waxed Oxidized Copper Tile Slab",
+        "chinese_name": "氧化的涂蜡铜瓦台阶",
+        "pinyin": "yang hua de tu la tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_weathered_copper_shingle_stairs": {
+        "english_name": "Waxed Weathered Copper Shingle Stairs",
+        "chinese_name": "锈蚀的涂蜡铜砖瓦楼梯",
+        "pinyin": "xiu shi de tu la tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oxidized_copper_shingles": {
+        "english_name": "Oxidized Copper Shingles",
+        "chinese_name": "氧化的铜砖瓦",
+        "pinyin": "yang hua de tong zhuan wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:exposed_copper_shingle_stairs": {
+        "english_name": "Exposed Copper Shingle Stairs",
+        "chinese_name": "斑驳的铜砖瓦楼梯",
+        "pinyin": "ban bo de tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_shingle_stairs": {
+        "english_name": "Copper Shingle Stairs",
+        "chinese_name": "铜砖瓦楼梯",
+        "pinyin": "tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oxidized_copper_tile_stairs": {
+        "english_name": "Oxidized Copper Tile Stairs",
+        "chinese_name": "氧化的铜瓦楼梯",
+        "pinyin": "yang hua de tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oxidized_copper_tile_slab": {
+        "english_name": "Oxidized Copper Tile Slab",
+        "chinese_name": "氧化的铜瓦台阶",
+        "pinyin": "yang hua de tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_oxidized_copper_shingles": {
+        "english_name": "Waxed Oxidized Copper Shingles",
+        "chinese_name": "氧化的涂蜡铜砖瓦",
+        "pinyin": "yang hua de tu la tong zhuan wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_exposed_copper_tile_slab": {
+        "english_name": "Waxed Exposed Copper Tile Slab",
+        "chinese_name": "斑驳的涂蜡铜瓦台阶",
+        "pinyin": "ban bo de tu la tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_copper_tile_stairs": {
+        "english_name": "Waxed Copper Tile Stairs",
+        "chinese_name": "涂蜡铜瓦楼梯",
+        "pinyin": "tu la tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_oxidized_copper_shingle_slab": {
+        "english_name": "Waxed Oxidized Copper Shingle Slab",
+        "chinese_name": "氧化的涂蜡铜砖瓦台阶",
+        "pinyin": "yang hua de tu la tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_oxidized_copper_tiles": {
+        "english_name": "Waxed Oxidized Copper Tiles",
+        "chinese_name": "氧化的涂蜡铜瓦",
+        "pinyin": "yang hua de tu la tong wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_copper_shingle_stairs": {
+        "english_name": "Weathered Copper Shingle Stairs",
+        "chinese_name": "锈蚀的铜砖瓦楼梯",
+        "pinyin": "xiu shi de tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_copper_tile_slab": {
+        "english_name": "Waxed Copper Tile Slab",
+        "chinese_name": "涂蜡铜瓦台阶",
+        "pinyin": "tu la tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_weathered_copper_shingles": {
+        "english_name": "Waxed Weathered Copper Shingles",
+        "chinese_name": "锈蚀的涂蜡铜砖瓦",
+        "pinyin": "xiu shi de tu la tong zhuan wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oxidized_copper_shingle_stairs": {
+        "english_name": "Oxidized Copper Shingle Stairs",
+        "chinese_name": "氧化的铜砖瓦楼梯",
+        "pinyin": "yang hua de tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:exposed_copper_tile_stairs": {
+        "english_name": "Exposed Copper Tile Stairs",
+        "chinese_name": "斑驳的铜瓦楼梯",
+        "pinyin": "ban bo de tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oxidized_copper_tiles": {
+        "english_name": "Oxidized Copper Tiles",
+        "chinese_name": "氧化的铜瓦",
+        "pinyin": "yang hua de tong wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:exposed_copper_shingle_slab": {
+        "english_name": "Exposed Copper Shingle Slab",
+        "chinese_name": "斑驳的铜砖瓦台阶",
+        "pinyin": "ban bo de tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_copper_shingles": {
+        "english_name": "Weathered Copper Shingles",
+        "chinese_name": "锈蚀的铜砖瓦",
+        "pinyin": "xiu shi de tong zhuan wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:exposed_copper_tile_slab": {
+        "english_name": "Exposed Copper Tile Slab",
+        "chinese_name": "斑驳的铜瓦台阶",
+        "pinyin": "ban bo de tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_exposed_copper_shingle_slab": {
+        "english_name": "Waxed Exposed Copper Shingle Slab",
+        "chinese_name": "斑驳的涂蜡铜砖瓦台阶",
+        "pinyin": "ban bo de tu la tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:exposed_copper_tiles": {
+        "english_name": "Exposed Copper Tiles",
+        "chinese_name": "斑驳的铜瓦",
+        "pinyin": "ban bo de tong wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_exposed_copper_tile_stairs": {
+        "english_name": "Waxed Exposed Copper Tile Stairs",
+        "chinese_name": "斑驳的涂蜡铜瓦楼梯",
+        "pinyin": "ban bo de tu la tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_tile_stairs": {
+        "english_name": "Copper Tile Stairs",
+        "chinese_name": "铜瓦楼梯",
+        "pinyin": "tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_weathered_copper_tile_stairs": {
+        "english_name": "Waxed Weathered Copper Tile Stairs",
+        "chinese_name": "锈蚀的涂蜡铜瓦楼梯",
+        "pinyin": "xiu shi de tu la tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_exposed_copper_tiles": {
+        "english_name": "Waxed Exposed Copper Tiles",
+        "chinese_name": "斑驳的涂蜡铜瓦",
+        "pinyin": "ban bo de tu la tong wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_exposed_copper_shingles": {
+        "english_name": "Waxed Exposed Copper Shingles",
+        "chinese_name": "斑驳的涂蜡铜砖瓦",
+        "pinyin": "ban bo de tu la tong zhuan wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_copper_shingle_slab": {
+        "english_name": "Waxed Copper Shingle Slab",
+        "chinese_name": "涂蜡铜砖瓦台阶",
+        "pinyin": "tu la tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oxidized_copper_shingle_slab": {
+        "english_name": "Oxidized Copper Shingle Slab",
+        "chinese_name": "氧化的铜砖瓦台阶",
+        "pinyin": "yang hua de tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_weathered_copper_shingle_slab": {
+        "english_name": "Waxed Weathered Copper Shingle Slab",
+        "chinese_name": "锈蚀的涂蜡铜砖瓦台阶",
+        "pinyin": "xiu shi de tu la tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_copper_tile_stairs": {
+        "english_name": "Weathered Copper Tile Stairs",
+        "chinese_name": "锈蚀的铜瓦楼梯",
+        "pinyin": "xiu shi de tong wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_copper_shingles": {
+        "english_name": "Waxed Copper Shingles",
+        "chinese_name": "涂蜡铜砖瓦",
+        "pinyin": "tu la tong zhuan wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_copper_shingle_stairs": {
+        "english_name": "Waxed Copper Shingle Stairs",
+        "chinese_name": "涂蜡铜砖瓦楼梯",
+        "pinyin": "tu la tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_weathered_copper_tiles": {
+        "english_name": "Waxed Weathered Copper Tiles",
+        "chinese_name": "锈蚀的涂蜡铜瓦",
+        "pinyin": "xiu shi de tu la tong wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_copper_tile_slab": {
+        "english_name": "Weathered Copper Tile Slab",
+        "chinese_name": "锈蚀的铜瓦台阶",
+        "pinyin": "xiu shi de tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_exposed_copper_shingle_stairs": {
+        "english_name": "Waxed Exposed Copper Shingle Stairs",
+        "chinese_name": "斑驳的涂蜡铜砖瓦楼梯",
+        "pinyin": "ban bo de tu la tong zhuan wa lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:waxed_weathered_copper_tile_slab": {
+        "english_name": "Waxed Weathered Copper Tile Slab",
+        "chinese_name": "锈蚀的涂蜡铜瓦台阶",
+        "pinyin": "xiu shi de tu la tong wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_copper_tiles": {
+        "english_name": "Weathered Copper Tiles",
+        "chinese_name": "锈蚀的铜瓦",
+        "pinyin": "xiu shi de tong wa",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_copper_shingle_slab": {
+        "english_name": "Weathered Copper Shingle Slab",
+        "chinese_name": "锈蚀的铜砖瓦台阶",
+        "pinyin": "xiu shi de tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_shingle_slab": {
+        "english_name": "Copper Shingle Slab",
+        "chinese_name": "铜砖瓦台阶",
+        "pinyin": "tong zhuan wa tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:framed_glass": {
+        "english_name": "Framed Glass",
+        "chinese_name": "边框玻璃",
+        "pinyin": "bian kuang bo li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:horizontal_framed_glass": {
+        "english_name": "Horizontal Framed Glass",
+        "chinese_name": "水平边框玻璃",
+        "pinyin": "shui ping bian kuang bo li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:vertical_framed_glass": {
+        "english_name": "Vertical Framed Glass",
+        "chinese_name": "竖直边框玻璃",
+        "pinyin": "shu zhi bian kuang bo li",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:tiled_glass": {
+        "english_name": "Tiled Glass",
+        "chinese_name": "十字玻璃窗",
+        "pinyin": "shi zi bo li chuang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:framed_glass_pane": {
+        "english_name": "Framed Glass Pane",
+        "chinese_name": "边框玻璃板",
+        "pinyin": "bian kuang bo li ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:horizontal_framed_glass_pane": {
+        "english_name": "Horizontal Framed Glass Pane",
+        "chinese_name": "水平边框玻璃板",
+        "pinyin": "shui ping bian kuang bo li ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:vertical_framed_glass_pane": {
+        "english_name": "Vertical Framed Glass Pane",
+        "chinese_name": "竖直边框玻璃板",
+        "pinyin": "shu zhi bian kuang bo li ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:tiled_glass_pane": {
+        "english_name": "Tiled Glass Pane",
+        "chinese_name": "十字玻璃窗户板",
+        "pinyin": "shi zi bo li chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oak_window": {
+        "english_name": "Oak Window",
+        "chinese_name": "橡木窗户",
+        "pinyin": "xiang mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:spruce_window": {
+        "english_name": "Spruce Window",
+        "chinese_name": "云杉木窗户",
+        "pinyin": "yun sha mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:birch_window": {
+        "english_name": "Birch Window",
+        "chinese_name": "白桦木窗户",
+        "pinyin": "bai hua mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:jungle_window": {
+        "english_name": "Jungle Window",
+        "chinese_name": "丛林木窗户",
+        "pinyin": "cong lin mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:dark_oak_window": {
+        "english_name": "Dark Oak Window",
+        "chinese_name": "深色橡木窗户",
+        "pinyin": "shen se xiang mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:ornate_iron_window": {
+        "english_name": "Ornate Iron Window",
+        "chinese_name": "华丽铁窗户",
+        "pinyin": "hua li tie chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crimson_window": {
+        "english_name": "Crimson Window",
+        "chinese_name": "绯红木窗户",
+        "pinyin": "fei hong mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:warped_window": {
+        "english_name": "Warped Window",
+        "chinese_name": "诡异木窗户",
+        "pinyin": "gui yi mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mangrove_window": {
+        "english_name": "Mangrove Window",
+        "chinese_name": "红树木窗户",
+        "pinyin": "hong shu mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:bamboo_window": {
+        "english_name": "Bamboo Window",
+        "chinese_name": "竹窗户",
+        "pinyin": "zhu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cherry_window": {
+        "english_name": "Cherry Window",
+        "chinese_name": "樱花木窗户",
+        "pinyin": "ying hua mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:industrial_iron_window": {
+        "english_name": "Industrial Iron Window",
+        "chinese_name": "工业铁窗户",
+        "pinyin": "gong ye tie chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_iron_window": {
+        "english_name": "Weathered Iron Window",
+        "chinese_name": "锈蚀的工业铁窗户",
+        "pinyin": "xiu shi de gong ye tie chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:acacia_window": {
+        "english_name": "Acacia Window",
+        "chinese_name": "金合欢木窗户",
+        "pinyin": "jin he huan mu chuang hu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:oak_window_pane": {
+        "english_name": "Oak Window Pane",
+        "chinese_name": "橡木窗户板",
+        "pinyin": "xiang mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:spruce_window_pane": {
+        "english_name": "Spruce Window Pane",
+        "chinese_name": "云杉木窗户板",
+        "pinyin": "yun sha mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:birch_window_pane": {
+        "english_name": "Birch Window Pane",
+        "chinese_name": "白桦木窗户板",
+        "pinyin": "bai hua mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:jungle_window_pane": {
+        "english_name": "Jungle Window Pane",
+        "chinese_name": "丛林木窗户板",
+        "pinyin": "cong lin mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:acacia_window_pane": {
+        "english_name": "Acacia Window Pane",
+        "chinese_name": "金合欢木窗户板",
+        "pinyin": "jin he huan mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:dark_oak_window_pane": {
+        "english_name": "Dark Oak Window Pane",
+        "chinese_name": "深色橡木窗户板",
+        "pinyin": "shen se xiang mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:crimson_window_pane": {
+        "english_name": "Crimson Window Pane",
+        "chinese_name": "绯红木窗户板",
+        "pinyin": "fei hong mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:warped_window_pane": {
+        "english_name": "Warped Window Pane",
+        "chinese_name": "诡异木窗户板",
+        "pinyin": "gui yi mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mangrove_window_pane": {
+        "english_name": "Mangrove Window Pane",
+        "chinese_name": "红树木窗户板",
+        "pinyin": "hong shu mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:ornate_iron_window_pane": {
+        "english_name": "Ornate Iron Window Pane",
+        "chinese_name": "华丽铁窗户板",
+        "pinyin": "hua li tie chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:bamboo_window_pane": {
+        "english_name": "Bamboo Window Pane",
+        "chinese_name": "竹窗户板",
+        "pinyin": "zhu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cherry_window_pane": {
+        "english_name": "Cherry Window Pane",
+        "chinese_name": "樱花木窗户板",
+        "pinyin": "ying hua mu chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:industrial_iron_window_pane": {
+        "english_name": "Industrial Iron Window Pane",
+        "chinese_name": "工业铁窗户板",
+        "pinyin": "gong ye tie chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:weathered_iron_window_pane": {
+        "english_name": "Weathered Iron Window Pane",
+        "chinese_name": "锈蚀的工业铁窗户板",
+        "pinyin": "xiu shi de gong ye tie chuang hu ban",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_ladder": {
+        "english_name": "Copper Ladder",
+        "chinese_name": "铜梯子",
+        "pinyin": "tong ti zi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_ladder": {
+        "english_name": "Andesite Ladder",
+        "chinese_name": "安山梯子",
+        "pinyin": "an shan ti zi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_ladder": {
+        "english_name": "Brass Ladder",
+        "chinese_name": "黄铜梯子",
+        "pinyin": "huang tong ti zi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:copper_bars": {
+        "english_name": "Copper Bars",
+        "chinese_name": "铜栏杆",
+        "pinyin": "tong lan gan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_bars": {
+        "english_name": "Andesite Bars",
+        "chinese_name": "安山栏杆",
+        "pinyin": "an shan lan gan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:brass_bars": {
+        "english_name": "Brass Bars",
+        "chinese_name": "黄铜栏杆",
+        "pinyin": "huang tong lan gan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_deepslate_slab": {
+        "english_name": "Polished Cut Deepslate Slab",
+        "chinese_name": "磨制切制深板岩台阶",
+        "pinyin": "mo zhi qie zhi shen ban yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:layered_deepslate": {
+        "english_name": "Layered Deepslate",
+        "chinese_name": "层叠深板岩",
+        "pinyin": "ceng die shen ban yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_deepslate": {
+        "english_name": "Polished Cut Deepslate",
+        "chinese_name": "磨制切制深板岩",
+        "pinyin": "mo zhi qie zhi shen ban yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_deepslate_brick_slab": {
+        "english_name": "Small Deepslate Brick Slab",
+        "chinese_name": "深板岩小砖块台阶",
+        "pinyin": "shen ban yan xiao zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate_brick_slab": {
+        "english_name": "Cut Deepslate Brick Slab",
+        "chinese_name": "切制深板岩砖块台阶",
+        "pinyin": "qie zhi shen ban yan zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate_wall": {
+        "english_name": "Cut Deepslate Wall",
+        "chinese_name": "切制深板岩墙",
+        "pinyin": "qie zhi shen ban yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_deepslate_wall": {
+        "english_name": "Polished Cut Deepslate Wall",
+        "chinese_name": "磨制切制深板岩墙",
+        "pinyin": "mo zhi qie zhi shen ban yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_deepslate_bricks": {
+        "english_name": "Small Deepslate Bricks",
+        "chinese_name": "深板岩小砖块",
+        "pinyin": "shen ban yan xiao zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_deepslate_stairs": {
+        "english_name": "Polished Cut Deepslate Stairs",
+        "chinese_name": "磨制切制深板岩楼梯",
+        "pinyin": "mo zhi qie zhi shen ban yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate_bricks": {
+        "english_name": "Cut Deepslate Bricks",
+        "chinese_name": "切制深板岩砖块",
+        "pinyin": "qie zhi shen ban yan zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate": {
+        "english_name": "Cut Deepslate",
+        "chinese_name": "切制深板岩",
+        "pinyin": "qie zhi shen ban yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate_brick_wall": {
+        "english_name": "Cut Deepslate Brick Wall",
+        "chinese_name": "切制深板岩砖块墙",
+        "pinyin": "qie zhi shen ban yan zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate_brick_stairs": {
+        "english_name": "Cut Deepslate Brick Stairs",
+        "chinese_name": "切制深板岩砖块楼梯",
+        "pinyin": "qie zhi shen ban yan zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_deepslate_brick_wall": {
+        "english_name": "Small Deepslate Brick Wall",
+        "chinese_name": "深板岩小砖块墙",
+        "pinyin": "shen ban yan xiao zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_deepslate_brick_stairs": {
+        "english_name": "Small Deepslate Brick Stairs",
+        "chinese_name": "深板岩小砖块楼梯",
+        "pinyin": "shen ban yan xiao zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:deepslate_pillar": {
+        "english_name": "Deepslate Pillar",
+        "chinese_name": "深板岩柱",
+        "pinyin": "shen ban yan zhu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate_stairs": {
+        "english_name": "Cut Deepslate Stairs",
+        "chinese_name": "切制深板岩楼梯",
+        "pinyin": "qie zhi shen ban yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_deepslate_slab": {
+        "english_name": "Cut Deepslate Slab",
+        "chinese_name": "切制深板岩台阶",
+        "pinyin": "qie zhi shen ban yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_bricks": {
+        "english_name": "Granite Bricks",
+        "chinese_name": "花岗岩砖",
+        "pinyin": "hua gang yan zhuan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_cobblestone": {
+        "english_name": "Granite Cobblestone",
+        "chinese_name": "花岗岩圆石",
+        "pinyin": "hua gang yan yuan shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_cobblestone_stairs": {
+        "english_name": "Granite Cobblestone Stairs",
+        "chinese_name": "花岗岩圆石楼梯",
+        "pinyin": "hua gang yan yuan shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_cobblestone_slab": {
+        "english_name": "Granite Cobblestone Slab",
+        "chinese_name": "花岗岩圆石台阶",
+        "pinyin": "hua gang yan yuan shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_cobblestone_wall": {
+        "english_name": "Granite Cobblestone Wall",
+        "chinese_name": "花岗岩圆石墙",
+        "pinyin": "hua gang yan yuan shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_bricks_stairs": {
+        "english_name": "Granite Bricks Stairs",
+        "chinese_name": "花岗岩砖楼梯",
+        "pinyin": "hua gang yan zhuan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_bricks_slab": {
+        "english_name": "Granite Bricks Slab",
+        "chinese_name": "花岗岩砖台阶",
+        "pinyin": "hua gang yan zhuan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_bricks_wall": {
+        "english_name": "Granite Bricks Wall",
+        "chinese_name": "花岗岩砖墙",
+        "pinyin": "hua gang yan zhuan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_granite_bricks": {
+        "english_name": "Fancy Granite Bricks",
+        "chinese_name": "方纹花岗岩砖",
+        "pinyin": "fang wen hua gang yan zhuan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_granite_bricks_stairs": {
+        "english_name": "Fancy Granite Bricks Stairs",
+        "chinese_name": "方纹花岗岩砖楼梯",
+        "pinyin": "fang wen hua gang yan zhuan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_granite_bricks_slab": {
+        "english_name": "Fancy Granite Bricks Slab",
+        "chinese_name": "方纹花岗岩砖台阶",
+        "pinyin": "fang wen hua gang yan zhuan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_granite_bricks_wall": {
+        "english_name": "Fancy Granite Bricks Wall",
+        "chinese_name": "方纹花岗岩砖墙",
+        "pinyin": "fang wen hua gang yan zhuan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:granite_pillar": {
+        "english_name": "Granite Pillar",
+        "chinese_name": "花岗岩柱",
+        "pinyin": "hua gang yan zhu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_granite": {
+        "english_name": "Paved Granite",
+        "chinese_name": "花岗岩铺路石",
+        "pinyin": "hua gang yan pu lu shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_granite_stairs": {
+        "english_name": "Paved Granite Stairs",
+        "chinese_name": "花岗岩铺路石楼梯",
+        "pinyin": "hua gang yan pu lu shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_granite_slab": {
+        "english_name": "Paved Granite Slab",
+        "chinese_name": "花岗岩铺路石台阶",
+        "pinyin": "hua gang yan pu lu shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_granite_wall": {
+        "english_name": "Paved Granite Wall",
+        "chinese_name": "花岗岩铺路石墙",
+        "pinyin": "hua gang yan pu lu shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:layered_granite": {
+        "english_name": "Layered Granite",
+        "chinese_name": "层叠花岗岩",
+        "pinyin": "ceng die hua gang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mossy_granite": {
+        "english_name": "Mossy Granite",
+        "chinese_name": "覆苔花岗岩",
+        "pinyin": "fu tai hua gang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:overgrown_granite": {
+        "english_name": "Overgrown Granite",
+        "chinese_name": "覆草花岗岩",
+        "pinyin": "fu cao hua gang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite_bricks": {
+        "english_name": "Cut Granite Bricks",
+        "chinese_name": "切制花岗岩砖块",
+        "pinyin": "qie zhi hua gang yan zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_granite_brick_stairs": {
+        "english_name": "Small Granite Brick Stairs",
+        "chinese_name": "花岗岩小砖块楼梯",
+        "pinyin": "hua gang yan xiao zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_granite_wall": {
+        "english_name": "Polished Cut Granite Wall",
+        "chinese_name": "磨制切制花岗岩墙",
+        "pinyin": "mo zhi qie zhi hua gang yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite_wall": {
+        "english_name": "Cut Granite Wall",
+        "chinese_name": "切制花岗岩墙",
+        "pinyin": "qie zhi hua gang yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite_brick_slab": {
+        "english_name": "Cut Granite Brick Slab",
+        "chinese_name": "切制花岗岩砖块台阶",
+        "pinyin": "qie zhi hua gang yan zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite_stairs": {
+        "english_name": "Cut Granite Stairs",
+        "chinese_name": "切制花岗岩楼梯",
+        "pinyin": "qie zhi hua gang yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_granite_stairs": {
+        "english_name": "Polished Cut Granite Stairs",
+        "chinese_name": "磨制切制花岗岩楼梯",
+        "pinyin": "mo zhi qie zhi hua gang yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite_brick_stairs": {
+        "english_name": "Cut Granite Brick Stairs",
+        "chinese_name": "切制花岗岩砖块楼梯",
+        "pinyin": "qie zhi hua gang yan zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite_slab": {
+        "english_name": "Cut Granite Slab",
+        "chinese_name": "切制花岗岩台阶",
+        "pinyin": "qie zhi hua gang yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_granite_brick_wall": {
+        "english_name": "Small Granite Brick Wall",
+        "chinese_name": "花岗岩小砖块墙",
+        "pinyin": "hua gang yan xiao zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite_brick_wall": {
+        "english_name": "Cut Granite Brick Wall",
+        "chinese_name": "切制花岗岩砖块墙",
+        "pinyin": "qie zhi hua gang yan zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_granite": {
+        "english_name": "Polished Cut Granite",
+        "chinese_name": "磨制切制花岗岩",
+        "pinyin": "mo zhi qie zhi hua gang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_granite_slab": {
+        "english_name": "Polished Cut Granite Slab",
+        "chinese_name": "磨制切制花岗岩台阶",
+        "pinyin": "mo zhi qie zhi hua gang yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_granite": {
+        "english_name": "Cut Granite",
+        "chinese_name": "切制花岗岩",
+        "pinyin": "qie zhi hua gang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_granite_bricks": {
+        "english_name": "Small Granite Bricks",
+        "chinese_name": "花岗岩小砖块",
+        "pinyin": "hua gang yan xiao zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_granite_brick_slab": {
+        "english_name": "Small Granite Brick Slab",
+        "chinese_name": "花岗岩小砖块台阶",
+        "pinyin": "hua gang yan xiao zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_bricks": {
+        "english_name": "Andesite Bricks",
+        "chinese_name": "安山岩砖",
+        "pinyin": "an shan yan zhuan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_cobblestone": {
+        "english_name": "andesite_cobblestone",
+        "chinese_name": "安山岩圆石（0.4移除）",
+        "pinyin": "an shan yan yuan shi （0.4 yi chu ）",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_cobblestone_stairs": {
+        "english_name": "Andesite Cobblestone Stairs",
+        "chinese_name": "安山岩圆石楼梯",
+        "pinyin": "an shan yan yuan shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_cobblestone_slab": {
+        "english_name": "Andesite Cobblestone Slab",
+        "chinese_name": "安山岩圆石台阶",
+        "pinyin": "an shan yan yuan shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_cobblestone_wall": {
+        "english_name": "Andesite Cobblestone Wall",
+        "chinese_name": "安山岩圆石墙",
+        "pinyin": "an shan yan yuan shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_bricks_stairs": {
+        "english_name": "Andesite Bricks Stairs",
+        "chinese_name": "安山岩砖楼梯",
+        "pinyin": "an shan yan zhuan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_bricks_slab": {
+        "english_name": "Andesite Bricks Slab",
+        "chinese_name": "安山岩砖台阶",
+        "pinyin": "an shan yan zhuan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_bricks_wall": {
+        "english_name": "Andesite Bricks Wall",
+        "chinese_name": "安山岩砖墙",
+        "pinyin": "an shan yan zhuan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_andesite_bricks": {
+        "english_name": "Fancy Andesite Bricks",
+        "chinese_name": "方纹安山岩砖",
+        "pinyin": "fang wen an shan yan zhuan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_andesite_bricks_stairs": {
+        "english_name": "Fancy Andesite Bricks Stairs",
+        "chinese_name": "方纹安山岩砖楼梯",
+        "pinyin": "fang wen an shan yan zhuan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_andesite_bricks_slab": {
+        "english_name": "Fancy Andesite Bricks Slab",
+        "chinese_name": "方纹安山岩砖台阶",
+        "pinyin": "fang wen an shan yan zhuan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_andesite_bricks_wall": {
+        "english_name": "Fancy Andesite Bricks Wall",
+        "chinese_name": "方纹安山岩砖墙",
+        "pinyin": "fang wen an shan yan zhuan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:andesite_pillar": {
+        "english_name": "Andesite Pillar",
+        "chinese_name": "竖纹安山岩",
+        "pinyin": "shu wen an shan yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_andesite": {
+        "english_name": "Paved Andesite",
+        "chinese_name": "安山岩铺路石",
+        "pinyin": "an shan yan pu lu shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_andesite_stairs": {
+        "english_name": "Paved Andesite Stairs",
+        "chinese_name": "安山岩铺路石楼梯",
+        "pinyin": "an shan yan pu lu shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_andesite_slab": {
+        "english_name": "Paved Andesite Slab",
+        "chinese_name": "安山岩铺路石台阶",
+        "pinyin": "an shan yan pu lu shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_andesite_wall": {
+        "english_name": "Paved Andesite Wall",
+        "chinese_name": "安山岩铺路石墙",
+        "pinyin": "an shan yan pu lu shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:layered_andesite": {
+        "english_name": "Layered Andesite",
+        "chinese_name": "层叠安山岩",
+        "pinyin": "ceng die an shan yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mossy_andesite": {
+        "english_name": "Mossy Andesite",
+        "chinese_name": "覆苔安山岩",
+        "pinyin": "fu tai an shan yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:overgrown_andesite": {
+        "english_name": "Overgrown Andesite",
+        "chinese_name": "覆草安山岩",
+        "pinyin": "fu cao an shan yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_andesite_brick_slab": {
+        "english_name": "Small Andesite Brick Slab",
+        "chinese_name": "安山岩小砖块台阶",
+        "pinyin": "an shan yan xiao zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_andesite_brick_stairs": {
+        "english_name": "Small Andesite Brick Stairs",
+        "chinese_name": "安山岩小砖块楼梯",
+        "pinyin": "an shan yan xiao zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite_slab": {
+        "english_name": "Cut Andesite Slab",
+        "chinese_name": "切制安山岩台阶",
+        "pinyin": "qie zhi an shan yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_andesite_slab": {
+        "english_name": "Polished Cut Andesite Slab",
+        "chinese_name": "磨制切制安山岩台阶",
+        "pinyin": "mo zhi qie zhi an shan yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite": {
+        "english_name": "Cut Andesite",
+        "chinese_name": "切制安山岩",
+        "pinyin": "qie zhi an shan yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_andesite_wall": {
+        "english_name": "Polished Cut Andesite Wall",
+        "chinese_name": "磨制切制安山岩墙",
+        "pinyin": "mo zhi qie zhi an shan yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_andesite_brick_wall": {
+        "english_name": "Small Andesite Brick Wall",
+        "chinese_name": "安山岩小砖块墙",
+        "pinyin": "an shan yan xiao zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_andesite_stairs": {
+        "english_name": "Polished Cut Andesite Stairs",
+        "chinese_name": "磨制切制安山岩楼梯",
+        "pinyin": "mo zhi qie zhi an shan yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite_brick_slab": {
+        "english_name": "Cut Andesite Brick Slab",
+        "chinese_name": "切制安山岩砖块台阶",
+        "pinyin": "qie zhi an shan yan zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite_brick_wall": {
+        "english_name": "Cut Andesite Brick Wall",
+        "chinese_name": "切制安山岩砖块墙",
+        "pinyin": "qie zhi an shan yan zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite_wall": {
+        "english_name": "Cut Andesite Wall",
+        "chinese_name": "切制安山岩墙",
+        "pinyin": "qie zhi an shan yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_andesite": {
+        "english_name": "Polished Cut Andesite",
+        "chinese_name": "磨制切制安山岩",
+        "pinyin": "mo zhi qie zhi an shan yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite_stairs": {
+        "english_name": "Cut Andesite Stairs",
+        "chinese_name": "切制安山岩楼梯",
+        "pinyin": "qie zhi an shan yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_andesite_bricks": {
+        "english_name": "Small Andesite Bricks",
+        "chinese_name": "安山岩小砖块",
+        "pinyin": "an shan yan xiao zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite_brick_stairs": {
+        "english_name": "Cut Andesite Brick Stairs",
+        "chinese_name": "切制安山岩砖块楼梯",
+        "pinyin": "qie zhi an shan yan zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_andesite_bricks": {
+        "english_name": "cut_andesite_bricks",
+        "chinese_name": "切制安山岩砖块",
+        "pinyin": "qie zhi an shan yan zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_bricks": {
+        "english_name": "Diorite Bricks",
+        "chinese_name": "闪长岩砖",
+        "pinyin": "shan zhang yan zhuan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_cobblestone": {
+        "english_name": "Diorite Cobblestone",
+        "chinese_name": "闪长岩圆石",
+        "pinyin": "shan zhang yan yuan shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_cobblestone_stairs": {
+        "english_name": "Diorite Cobblestone Stairs",
+        "chinese_name": "闪长岩圆石楼梯",
+        "pinyin": "shan zhang yan yuan shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_cobblestone_slab": {
+        "english_name": "Diorite Cobblestone Slab",
+        "chinese_name": "闪长岩圆石台阶",
+        "pinyin": "shan zhang yan yuan shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_cobblestone_wall": {
+        "english_name": "Diorite Cobblestone Wall",
+        "chinese_name": "闪长岩圆石墙",
+        "pinyin": "shan zhang yan yuan shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_bricks_stairs": {
+        "english_name": "Diorite Bricks Stairs",
+        "chinese_name": "闪长岩砖楼梯",
+        "pinyin": "shan zhang yan zhuan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_bricks_slab": {
+        "english_name": "Diorite Bricks Slab",
+        "chinese_name": "闪长岩砖台阶",
+        "pinyin": "shan zhang yan zhuan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_bricks_wall": {
+        "english_name": "Diorite Bricks Wall",
+        "chinese_name": "闪长岩砖墙",
+        "pinyin": "shan zhang yan zhuan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_diorite_bricks": {
+        "english_name": "Fancy Diorite Bricks",
+        "chinese_name": "方纹闪长岩砖",
+        "pinyin": "fang wen shan zhang yan zhuan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_diorite_bricks_stairs": {
+        "english_name": "Fancy Diorite Bricks Stairs",
+        "chinese_name": "方纹闪长岩砖楼梯",
+        "pinyin": "fang wen shan zhang yan zhuan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_diorite_bricks_slab": {
+        "english_name": "Fancy Diorite Bricks Slab",
+        "chinese_name": "方纹闪长岩砖台阶",
+        "pinyin": "fang wen shan zhang yan zhuan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:fancy_diorite_bricks_wall": {
+        "english_name": "Fancy Diorite Bricks Wall",
+        "chinese_name": "方纹闪长岩砖墙",
+        "pinyin": "fang wen shan zhang yan zhuan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:diorite_pillar": {
+        "english_name": "Diorite Pillar",
+        "chinese_name": "闪长岩柱",
+        "pinyin": "shan zhang yan zhu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_diorite": {
+        "english_name": "Paved Diorite",
+        "chinese_name": "闪长岩铺路石",
+        "pinyin": "shan zhang yan pu lu shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_diorite_stairs": {
+        "english_name": "Paved Diorite Stairs",
+        "chinese_name": "闪长岩铺路石楼梯",
+        "pinyin": "shan zhang yan pu lu shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_diorite_slab": {
+        "english_name": "Paved Diorite Slab",
+        "chinese_name": "闪长岩铺路石台阶",
+        "pinyin": "shan zhang yan pu lu shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:paved_diorite_wall": {
+        "english_name": "Paved Diorite Wall",
+        "chinese_name": "闪长岩铺路石墙",
+        "pinyin": "shan zhang yan pu lu shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:layered_diorite": {
+        "english_name": "Layered Diorite",
+        "chinese_name": "层叠闪长岩",
+        "pinyin": "ceng die shan zhang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:mossy_diorite": {
+        "english_name": "Mossy Diorite",
+        "chinese_name": "覆苔闪长岩",
+        "pinyin": "fu tai shan zhang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:overgrown_diorite": {
+        "english_name": "Overgrown Diorite",
+        "chinese_name": "覆草闪长岩",
+        "pinyin": "fu cao shan zhang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_diorite_brick_wall": {
+        "english_name": "Small Diorite Brick Wall",
+        "chinese_name": "闪长岩小砖块墙",
+        "pinyin": "shan zhang yan xiao zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_diorite_brick_stairs": {
+        "english_name": "Small Diorite Brick Stairs",
+        "chinese_name": "闪长岩小砖块楼梯",
+        "pinyin": "shan zhang yan xiao zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_diorite_brick_slab": {
+        "english_name": "Small Diorite Brick Slab",
+        "chinese_name": "闪长岩小砖块台阶",
+        "pinyin": "shan zhang yan xiao zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite_slab": {
+        "english_name": "Cut Diorite Slab",
+        "chinese_name": "切制闪长岩台阶",
+        "pinyin": "qie zhi shan zhang yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite_brick_stairs": {
+        "english_name": "Cut Diorite Brick Stairs",
+        "chinese_name": "切制闪长岩砖块楼梯",
+        "pinyin": "qie zhi shan zhang yan zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_diorite_bricks": {
+        "english_name": "Small Diorite Bricks",
+        "chinese_name": "闪长岩小砖块",
+        "pinyin": "shan zhang yan xiao zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite": {
+        "english_name": "Cut Diorite",
+        "chinese_name": "切制闪长岩",
+        "pinyin": "qie zhi shan zhang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite_brick_wall": {
+        "english_name": "Cut Diorite Brick Wall",
+        "chinese_name": "切制闪长岩砖块墙",
+        "pinyin": "qie zhi shan zhang yan zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite_brick_slab": {
+        "english_name": "Cut Diorite Brick Slab",
+        "chinese_name": "切制闪长岩砖块台阶",
+        "pinyin": "qie zhi shan zhang yan zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_diorite_wall": {
+        "english_name": "Polished Cut Diorite Wall",
+        "chinese_name": "磨制切制闪长岩墙",
+        "pinyin": "mo zhi qie zhi shan zhang yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite_bricks": {
+        "english_name": "Cut Diorite Bricks",
+        "chinese_name": "切制闪长岩砖块",
+        "pinyin": "qie zhi shan zhang yan zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_diorite_slab": {
+        "english_name": "Polished Cut Diorite Slab",
+        "chinese_name": "磨制切制闪长岩台阶",
+        "pinyin": "mo zhi qie zhi shan zhang yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_diorite": {
+        "english_name": "Polished Cut Diorite",
+        "chinese_name": "磨制切制闪长岩",
+        "pinyin": "mo zhi qie zhi shan zhang yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_diorite_stairs": {
+        "english_name": "Polished Cut Diorite Stairs",
+        "chinese_name": "磨制切制闪长岩楼梯",
+        "pinyin": "mo zhi qie zhi shan zhang yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite_stairs": {
+        "english_name": "Cut Diorite Stairs",
+        "chinese_name": "切制闪长岩楼梯",
+        "pinyin": "qie zhi shan zhang yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_diorite_wall": {
+        "english_name": "Cut Diorite Wall",
+        "chinese_name": "切制闪长岩墙",
+        "pinyin": "qie zhi shan zhang yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_tuff_slab": {
+        "english_name": "Polished Cut Tuff Slab",
+        "chinese_name": "磨制切制凝灰岩台阶",
+        "pinyin": "mo zhi qie zhi ning hui yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_tuff_wall": {
+        "english_name": "Polished Cut Tuff Wall",
+        "chinese_name": "磨制切制凝灰岩墙",
+        "pinyin": "mo zhi qie zhi ning hui yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_tuff_bricks": {
+        "english_name": "Small Tuff Bricks",
+        "chinese_name": "凝灰岩小砖块",
+        "pinyin": "ning hui yan xiao zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:tuff_pillar": {
+        "english_name": "Tuff Pillar",
+        "chinese_name": "凝灰岩柱",
+        "pinyin": "ning hui yan zhu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff_brick_slab": {
+        "english_name": "Cut Tuff Brick Slab",
+        "chinese_name": "切制凝灰岩砖块台阶",
+        "pinyin": "qie zhi ning hui yan zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff_brick_stairs": {
+        "english_name": "Cut Tuff Brick Stairs",
+        "chinese_name": "切制凝灰岩砖块楼梯",
+        "pinyin": "qie zhi ning hui yan zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff_stairs": {
+        "english_name": "Cut Tuff Stairs",
+        "chinese_name": "切制凝灰岩楼梯",
+        "pinyin": "qie zhi ning hui yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff_bricks": {
+        "english_name": "Cut Tuff Bricks",
+        "chinese_name": "切制凝灰岩砖块",
+        "pinyin": "qie zhi ning hui yan zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_tuff_stairs": {
+        "english_name": "Polished Cut Tuff Stairs",
+        "chinese_name": "磨制切制凝灰岩楼梯",
+        "pinyin": "mo zhi qie zhi ning hui yan lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_tuff_brick_wall": {
+        "english_name": "Small Tuff Brick Wall",
+        "chinese_name": "凝灰岩小砖块墙",
+        "pinyin": "ning hui yan xiao zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:layered_tuff": {
+        "english_name": "Layered Tuff",
+        "chinese_name": "层叠凝灰岩",
+        "pinyin": "ceng die ning hui yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff_wall": {
+        "english_name": "Cut Tuff Wall",
+        "chinese_name": "切制凝灰岩墙",
+        "pinyin": "qie zhi ning hui yan qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_tuff": {
+        "english_name": "Polished Cut Tuff",
+        "chinese_name": "磨制切制凝灰岩",
+        "pinyin": "mo zhi qie zhi ning hui yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff_slab": {
+        "english_name": "Cut Tuff Slab",
+        "chinese_name": "切制凝灰岩台阶",
+        "pinyin": "qie zhi ning hui yan tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_tuff_brick_stairs": {
+        "english_name": "Small Tuff Brick Stairs",
+        "chinese_name": "凝灰岩小砖块楼梯",
+        "pinyin": "ning hui yan xiao zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff": {
+        "english_name": "Cut Tuff",
+        "chinese_name": "切制凝灰岩",
+        "pinyin": "qie zhi ning hui yan",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_tuff_brick_wall": {
+        "english_name": "Cut Tuff Brick Wall",
+        "chinese_name": "切制凝灰岩砖块墙",
+        "pinyin": "qie zhi ning hui yan zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_tuff_brick_slab": {
+        "english_name": "Small Tuff Brick Slab",
+        "chinese_name": "凝灰岩小砖块台阶",
+        "pinyin": "ning hui yan xiao zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_calcite_brick_slab": {
+        "english_name": "Small Calcite Brick Slab",
+        "chinese_name": "方解石小砖块台阶",
+        "pinyin": "fang jie shi xiao zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_calcite_wall": {
+        "english_name": "Polished Cut Calcite Wall",
+        "chinese_name": "磨制切制方解石墙",
+        "pinyin": "mo zhi qie zhi fang jie shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite_bricks": {
+        "english_name": "Cut Calcite Bricks",
+        "chinese_name": "切制方解石砖块",
+        "pinyin": "qie zhi fang jie shi zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite": {
+        "english_name": "Cut Calcite",
+        "chinese_name": "切制方解石",
+        "pinyin": "qie zhi fang jie shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_calcite_slab": {
+        "english_name": "Polished Cut Calcite Slab",
+        "chinese_name": "磨制切制方解石台阶",
+        "pinyin": "mo zhi qie zhi fang jie shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:layered_calcite": {
+        "english_name": "Layered Calcite",
+        "chinese_name": "层叠方解石",
+        "pinyin": "ceng die fang jie shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite_stairs": {
+        "english_name": "Cut Calcite Stairs",
+        "chinese_name": "切制方解石楼梯",
+        "pinyin": "qie zhi fang jie shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite_brick_slab": {
+        "english_name": "Cut Calcite Brick Slab",
+        "chinese_name": "切制方解石砖块台阶",
+        "pinyin": "qie zhi fang jie shi zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite_brick_stairs": {
+        "english_name": "Cut Calcite Brick Stairs",
+        "chinese_name": "切制方解石砖块楼梯",
+        "pinyin": "qie zhi fang jie shi zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite_slab": {
+        "english_name": "Cut Calcite Slab",
+        "chinese_name": "切制方解石台阶",
+        "pinyin": "qie zhi fang jie shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_calcite_bricks": {
+        "english_name": "Small Calcite Bricks",
+        "chinese_name": "方解石小砖块",
+        "pinyin": "fang jie shi xiao zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_calcite_brick_stairs": {
+        "english_name": "Small Calcite Brick Stairs",
+        "chinese_name": "方解石小砖块楼梯",
+        "pinyin": "fang jie shi xiao zhuan kuai lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:calcite_pillar": {
+        "english_name": "Calcite Pillar",
+        "chinese_name": "竖纹方解石",
+        "pinyin": "shu wen fang jie shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_calcite_stairs": {
+        "english_name": "Polished Cut Calcite Stairs",
+        "chinese_name": "磨制切制方解石楼梯",
+        "pinyin": "mo zhi qie zhi fang jie shi lou ti",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite_brick_wall": {
+        "english_name": "Cut Calcite Brick Wall",
+        "chinese_name": "切制方解石砖块墙",
+        "pinyin": "qie zhi fang jie shi zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_calcite": {
+        "english_name": "Polished Cut Calcite",
+        "chinese_name": "磨制切制方解石",
+        "pinyin": "mo zhi qie zhi fang jie shi",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_calcite_wall": {
+        "english_name": "Cut Calcite Wall",
+        "chinese_name": "切制方解石墙",
+        "pinyin": "qie zhi fang jie shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_calcite_brick_wall": {
+        "english_name": "Small Calcite Brick Wall",
+        "chinese_name": "方解石小砖块墙",
+        "pinyin": "fang jie shi xiao zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_dripstone_brick_wall": {
+        "english_name": "Cut Dripstone Brick Wall",
+        "chinese_name": "切制滴水石砖块墙",
+        "pinyin": "qie zhi di shui shi zhuan kuai qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_dripstone": {
+        "english_name": "Polished Cut Dripstone",
+        "chinese_name": "磨制切制滴水石块",
+        "pinyin": "mo zhi qie zhi di shui shi kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_dripstone_bricks": {
+        "english_name": "Cut Dripstone Bricks",
+        "chinese_name": "切制滴水石砖块",
+        "pinyin": "qie zhi di shui shi zhuan kuai",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:small_dripstone_brick_slab": {
+        "english_name": "Small Dripstone Brick Slab",
+        "chinese_name": "滴水石小砖块台阶",
+        "pinyin": "di shui shi xiao zhuan kuai tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_dripstone_slab": {
+        "english_name": "Polished Cut Dripstone Slab",
+        "chinese_name": "磨制切制滴水石台阶",
+        "pinyin": "mo zhi qie zhi di shui shi tai jie",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:polished_cut_dripstone_wall": {
+        "english_name": "Polished Cut Dripstone Wall",
+        "chinese_name": "磨制切制滴水石墙",
+        "pinyin": "mo zhi qie zhi di shui shi qiang",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:dripstone_pillar": {
+        "english_name": "Dripstone Pillar",
+        "chinese_name": "滴水石柱",
+        "pinyin": "di shui shi zhu",
+        "mod_name": "Create",
+        "has_texture": true
+    },
+    "create:cut_dripstone": {
+        "english_name": "Cut Dripstone",
+        "chinese_name": "切制滴水石块",
+        "pinyin": "qie zhi di shui shi kuai",
+        "mod_name": "Create"
+    }
+}
